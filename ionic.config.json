@@ -1,0 +1,7 @@
+{
+  "name": "Week-8-FinalProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

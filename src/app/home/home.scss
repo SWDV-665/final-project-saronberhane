@@ -1,0 +1,36 @@
+ion-header {
+  margin-bottom: 50px;
+  ion-toolbar {
+    --background: #fff;
+    --color: rgb(51, 51, 51);
+    --ion-color-base: #333;
+    --border-color: #ccc;
+  }
+
+  ion-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 16px 0;
+  }
+
+  
+}
+ion-content {
+  ion-item {
+    --background: rgb(199, 125, 41);
+  }
+}
+
+
+.completed {
+  text-decoration: line-through;
+}
+
+.no-task {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
